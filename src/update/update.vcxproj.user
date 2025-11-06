@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>http://192.168.12.9:3127/proxy/download/XixiExam?filename=xixiexam_student_update_3.0.2.34.exe 3.0.2.34 0B4B3F0F02B352B8BCFD6DF41A74F263 "2025-3-4 9:40:30 AM" 192.168.12.9 "d:\xixi\student\" </LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
